@@ -29,3 +29,10 @@ A simple yet powerful Python program that generates secure random passwords usin
 
 ```bash
 python main.py
+
+
+## 🏷️ Tags
+
+`#python` `#passwordgenerator` `#opensource` `#beginners` `#studentproject`  
+`#cybersecurity` `#randompassword` `#devtool` `#terminalapp`  
+`#pythonproject` `#clitool` `#100daysofcode` `#programming` `#coding`
