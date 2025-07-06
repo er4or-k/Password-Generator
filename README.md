@@ -6,11 +6,11 @@ A simple yet powerful Python program that generates secure random passwords usin
 
 ## 🚀 Features
 
-- User chooses desired password length
-- Uses letters (A-Z, a-z), digits (0-9), and symbols (!@#...)
-- Checks for minimum password length
-- Handles invalid input gracefully
-- Fully commented and beginner-friendly code
+- User chooses desired password length  
+- Uses letters (A-Z, a-z), digits (0-9), and symbols (!@#...)  
+- Checks for minimum password length  
+- Handles invalid input gracefully  
+- Fully commented and beginner-friendly code  
 
 ---
 
@@ -23,16 +23,9 @@ A simple yet powerful Python program that generates secure random passwords usin
 
 ## 📦 How to Run
 
-1. Clone or download the repository
-2. Open a terminal or command prompt
+1. Clone or download the repository  
+2. Open a terminal or command prompt  
 3. Run the program:
 
 ```bash
 python main.py
-
-
-## 🏷️ Tags
-
-`#python` `#passwordgenerator` `#opensource` `#beginners` `#studentproject`  
-`#cybersecurity` `#randompassword` `#devtool` `#terminalapp`  
-`#pythonproject` `#clitool` `#100daysofcode` `#programming` `#coding`
